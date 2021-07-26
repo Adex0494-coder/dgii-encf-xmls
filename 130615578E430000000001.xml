@@ -1,0 +1,57 @@
+<ECF>
+  <Encabezado>
+    <Version>1.0</Version>
+    <IdDoc>
+      <TipoeCF>43</TipoeCF>
+      <eNCF>E430000000001</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
+    </IdDoc>
+    <Emisor>
+      <RNCEmisor>130615578</RNCEmisor>
+      <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
+      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
+      <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
+      <Municipio>010101</Municipio>
+      <Provincia>010000</Provincia>
+      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
+      <WebSite>www.facturaelectronica.com</WebSite>
+      <FechaEmision>01-04-2020</FechaEmision>
+    </Emisor>
+    <Totales>
+      <MontoExento>700.00</MontoExento>
+      <MontoTotal>700.00</MontoTotal>
+    </Totales>
+  </Encabezado>
+  <DetallesItems>
+    <Item>
+      <NumeroLinea>1</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>Peajes viaje semana I</NombreItem>
+      <IndicadorBienoServicio>2</IndicadorBienoServicio>
+      <CantidadItem>7.00</CantidadItem>
+      <UnidadMedida>43</UnidadMedida>
+      <PrecioUnitarioItem>100.00</PrecioUnitarioItem>
+      <MontoItem>700.00</MontoItem>
+    </Item>
+  </DetallesItems>
+  <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>Saolxb/Vt6K6UKdQfRzskiOYd/A4PXjv4kj8KZWEb98=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>IunixC0n+uMtth6kgAy5hc6cabDFn0k3gyXRYt6ZmxJZbwcS5vfXyKw3lq/yUVjhA8Xc9mjtX038gnO9TJfKrcpET0dM1e8gFBfZEKTSod+cs5XS4jbgeVIEQwHrjqbXTGi0MvAwG5yY0Bz2BpbLNAWCX1/aTPeSs34y/xnTcl3hl0XmQwAFvgJ3YEGfwSzzty5300DcUEp98bTOmsfgOG3bSYzwFxUj8Sf95K2jLjUU4dhtv/O+4XiVURmnqAko8RzWB4anL2cdmLx1LiXk0OR4bQL5paX0vzbDhOqHYLiRyme/tQVqO5b6smMVxdCbFHIUkpRoNtn5oG/3+fIFQQ==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</ECF>
