@@ -1,0 +1,648 @@
+<ECF>
+  <Encabezado>
+    <Version>1.0</Version>
+    <IdDoc>
+      <TipoeCF>44</TipoeCF>
+      <eNCF>E440000000002</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
+      <TipoIngresos>01</TipoIngresos>
+      <TipoPago>1</TipoPago>
+      <TipoCuentaPago>CT</TipoCuentaPago>
+      <NumeroCuentaPago>0301678890090</NumeroCuentaPago>
+      <BancoPago>BANCO XDRFT</BancoPago>
+    </IdDoc>
+    <Emisor>
+      <RNCEmisor>130615578</RNCEmisor>
+      <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
+      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
+      <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
+      <Municipio>010101</Municipio>
+      <Provincia>010000</Provincia>
+      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
+      <WebSite>www.facturaelectronica.com</WebSite>
+      <CodigoVendedor>AA0000000100000000010000000002000000000300000000050000000006</CodigoVendedor>
+      <ZonaVenta>NORT</ZonaVenta>
+      <FechaEmision>01-04-2020</FechaEmision>
+    </Emisor>
+    <Comprador>
+      <RNCComprador>131880681</RNCComprador>
+      <RazonSocialComprador>DOCUMENTOS ELECTRONICOS DE 03</RazonSocialComprador>
+      <ContactoComprador>MARCOS LATIPLOL</ContactoComprador>
+      <CorreoComprador>MARCOSLATIPLOL@KKKK.COM</CorreoComprador>
+      <DireccionComprador>CALLE JACINTO DE LA CONCHA FELIZ ESQUINA 27 DE FEBRERO,FRENTE A DOMINO</DireccionComprador>
+      <MunicipioComprador>010100</MunicipioComprador>
+      <ProvinciaComprador>010000</ProvinciaComprador>
+      <FechaEntrega>10-10-2020</FechaEntrega>
+      <FechaOrdenCompra>10-11-2018</FechaOrdenCompra>
+      <NumeroOrdenCompra>4500352238</NumeroOrdenCompra>
+    </Comprador>
+    <Totales>
+      <MontoExento>248292.00</MontoExento>
+      <MontoTotal>248292.00</MontoTotal>
+      <ValorPagar>248292.00</ValorPagar>
+    </Totales>
+  </Encabezado>
+  <DetallesItems>
+    <Item>
+      <NumeroLinea>1</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>2</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>3</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>4</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO 12</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>5</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO kl</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>6</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>7</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>8</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO nhy</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>9</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO 908</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>10</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO 23</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>11</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>12</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>13</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO hju</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>14</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO zxc</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>15</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>16</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>17</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>18</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>19</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>20</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>21</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>22</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>23</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>24</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>25</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>26</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>27</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>28</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>29</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>30</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>31</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>32</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>33</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>34</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>35</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>36</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>37</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>38</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>39</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>40</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>41</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>42</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>43</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>44</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>45</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>46</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>47</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>48</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>49</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>50</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>51</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>52</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>53</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>54</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>55</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>56</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+    <Item>
+      <NumeroLinea>57</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <NombreItem>COMBUSTIBLE AWSO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>22.00</CantidadItem>
+      <UnidadMedida>15</UnidadMedida>
+      <PrecioUnitarioItem>220.00</PrecioUnitarioItem>
+      <MontoItem>4840.00</MontoItem>
+    </Item>
+  </DetallesItems>
+  <DescuentosORecargos>
+    <DescuentoORecargo>
+      <NumeroLinea>1</NumeroLinea>
+      <TipoAjuste>D</TipoAjuste>
+      <DescripcionDescuentooRecargo>DESCUENTO ADMINISTRATIVO</DescripcionDescuentooRecargo>
+      <TipoValor>%</TipoValor>
+      <ValorDescuentooRecargo>10.00</ValorDescuentooRecargo>
+      <MontoDescuentooRecargo>27588.00</MontoDescuentooRecargo>
+      <IndicadorFacturacionDescuentooRecargo>4</IndicadorFacturacionDescuentooRecargo>
+    </DescuentoORecargo>
+  </DescuentosORecargos>
+  <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>86dUdpFZHtZL9/4iVoAf5fI7cxyafhxyit/g59+ERyc=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>FG0mT8j8hlAFx60PdnbuG5k+XObsPP6K4pJp2eDRA/UEtnl1MVWyAZhnzAFqqyzKjgG50CW9fzefZb5iMr08xRT74vPEswhTjDxH+xM7i2GBvlw8JQgVYEwPh8HOFJJR0Su3KrbmVwNxi93ZH2yOGpBIpL3+4c+pYnhHfdYKoRBPw7xBYwL3L0jiuRoKTDZfPEK42mQfmjze7/Kt6HEWKsTf3LSR5zw1SwuEblNKrMFNJRL1zkqWdJKEFx5GRKm9UYI37KiLBRMRU5/Uv+gJn8ArFDRZQSL3c3gxOlhob6dqLxzvN2/7exlhN4+gkNdijhzAzampQNkh35pUR4n1Yg==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</ECF>
