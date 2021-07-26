@@ -2,65 +2,58 @@
   <Encabezado>
     <Version>1.0</Version>
     <IdDoc>
-      <TipoeCF>34</TipoeCF>
-      <eNCF>E340000000001</eNCF>
-      <IndicadorNotaCredito>0</IndicadorNotaCredito>
+      <TipoeCF>41</TipoeCF>
+      <eNCF>E410000000001</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
       <IndicadorMontoGravado>0</IndicadorMontoGravado>
-      <TipoIngresos>01</TipoIngresos>
       <TipoPago>1</TipoPago>
     </IdDoc>
     <Emisor>
       <RNCEmisor>130615578</RNCEmisor>
       <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
-      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
       <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
-      <Municipio>010100</Municipio>
+      <Municipio>010101</Municipio>
       <Provincia>010000</Provincia>
-      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
-      <WebSite>www.facturaelectronica.com</WebSite>
-      <CodigoVendedor>AA0000000100000000010000000002000000000300000000050000000006</CodigoVendedor>
-      <ZonaVenta>NORTE</ZonaVenta>
-      <FechaEmision>02-04-2020</FechaEmision>
+      <FechaEmision>01-04-2020</FechaEmision>
     </Emisor>
     <Comprador>
-      <RNCComprador>131880681</RNCComprador>
-      <RazonSocialComprador>DOCUMENTOS ELECTRONICOS DE 03</RazonSocialComprador>
-      <ContactoComprador>MARCOS LATIPLOL</ContactoComprador>
+      <RNCComprador>533445861</RNCComprador>
+      <RazonSocialComprador>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialComprador>
       <CorreoComprador>MARCOSLATIPLOL@KKKK.COM</CorreoComprador>
       <DireccionComprador>CALLE JACINTO DE LA CONCHA FELIZ ESQUINA 27 DE FEBRERO,FRENTE A DOMINO</DireccionComprador>
       <MunicipioComprador>010100</MunicipioComprador>
       <ProvinciaComprador>010000</ProvinciaComprador>
-      <FechaEntrega>10-10-2020</FechaEntrega>
-      <FechaOrdenCompra>10-11-2018</FechaOrdenCompra>
-      <NumeroOrdenCompra>4500352238</NumeroOrdenCompra>
     </Comprador>
     <Totales>
-      <MontoGravadoTotal>0.00</MontoGravadoTotal>
-      <MontoGravadoI1>0.00</MontoGravadoI1>
+      <MontoGravadoTotal>10000.00</MontoGravadoTotal>
+      <MontoGravadoI1>10000.00</MontoGravadoI1>
       <ITBIS1>18</ITBIS1>
-      <TotalITBIS>0.00</TotalITBIS>
-      <TotalITBIS1>0.00</TotalITBIS1>
-      <MontoTotal>0.00</MontoTotal>
+      <TotalITBIS>1800.00</TotalITBIS>
+      <TotalITBIS1>1800.00</TotalITBIS1>
+      <MontoTotal>11800.00</MontoTotal>
+      <ValorPagar>11800.00</ValorPagar>
+      <TotalITBISRetenido>1800.00</TotalITBISRetenido>
+      <TotalISRRetencion>1000.00</TotalISRRetencion>
     </Totales>
   </Encabezado>
   <DetallesItems>
     <Item>
       <NumeroLinea>1</NumeroLinea>
       <IndicadorFacturacion>1</IndicadorFacturacion>
-      <NombreItem>TOP BOWL 1</NombreItem>
-      <IndicadorBienoServicio>1</IndicadorBienoServicio>
-      <CantidadItem>15</CantidadItem>
-      <UnidadMedida>31</UnidadMedida>
-      <PrecioUnitarioItem>0.00</PrecioUnitarioItem>
-      <MontoItem>0.00</MontoItem>
+      <Retencion>
+        <IndicadorAgenteRetencionoPercepcion>1</IndicadorAgenteRetencionoPercepcion>
+        <MontoITBISRetenido>1800.00</MontoITBISRetenido>
+        <MontoISRRetenido>1000.00</MontoISRRetenido>
+      </Retencion>
+      <NombreItem>SERVICIO PUBLICIDAD</NombreItem>
+      <IndicadorBienoServicio>2</IndicadorBienoServicio>
+      <DescripcionItem>LOREM IPSUM DOLOR SITI AMET, CONSECTETUR ADIPISCI IT. VESTIBULUM 1234 FERMENTUM E-X, CONSEQUAT (IACULIS) ARCU. PELLENTESQUE RUTRUM DUI EGET SAPIEN DICTUM, EU MOLLIS LECTUS AUCTOR. NUNC ORNARE ERAT QUIS NISL IMPERDIET PORTA. NULLAM VEL PHARETRA LEO, PELLENTESQUE FERMENTUM LECTUS. VIVAMUS ORCI IPSUM, SCELERISQUE QUIS VEHICULA QUIS, TEMPUS VITAE PURUS. ALIQUAM SAGITTIS EROS VITAE ANTE FAUCIBUS AUCTOR. MAECENAS PELLENTESQUE VEL EST IN CONGUE. FUSCE ARCU LIGULA, HENDRERIT EU DOLOR A, FACILISIS GRAVIDA DOLOR. PELLENTESQUE SED ALIQUET DOLOR. MAURIS BIBENDUM VEHICULA DICTUM. ETIAM TEMPUS, ODIO NEC CONSECTETUR IACULIS, ODIO NIBH EGESTAS FELIS, SED VIVERRA MAGNA EX SUSCIPIT AUGUE. PELLENTESQUE VESTIBULUM, LACUS NON MATTIS MOLESTIE, NEQUE LEO FACILISIS URNA, AC SUSCIPIT ERAT NISI ET MAGNA. PRAESENT PLACERAT SED LEO A GRAVIDA. MORBI ID ELIT LACUS. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA, PER INCEPTOS HIMENAEOS, CONSECTETUR ADIPISCING ELIT. NUNC ORNARE ERAT QUIS NISL IMP.</DescripcionItem>
+      <CantidadItem>1.00</CantidadItem>
+      <UnidadMedida>43</UnidadMedida>
+      <PrecioUnitarioItem>10000.00</PrecioUnitarioItem>
+      <MontoItem>10000.00</MontoItem>
     </Item>
   </DetallesItems>
-  <InformacionReferencia>
-    <NCFModificado>E310000000001</NCFModificado>
-    <FechaNCFModificado>01-04-2020</FechaNCFModificado>
-    <CodigoModificacion>2</CodigoModificacion>
-    <RazonModificacion>Error en datos</RazonModificacion>
-  </InformacionReferencia>
   <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
   <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
     <SignedInfo>
@@ -71,10 +64,10 @@
           <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
         </Transforms>
         <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
-        <DigestValue>ZPL03vuyHQUjkMwXW2l1RSvgKQqx6toTKtkZo+kjLTE=</DigestValue>
+        <DigestValue>9jSz8LryQVdRQbdIHGVslFMEstvUUxx5M+W7hAWMWPc=</DigestValue>
       </Reference>
     </SignedInfo>
-    <SignatureValue>TXmS+dnhMhoghz1z6Uw1+7NciERQS0CB4/C5MHCx6tqVqk03Gs8NIzPHxtesAfwmAFlvcM+HJQPhNX7/Q4+wcBhlHQy4BQ/c4cnMHia5+q+M3Shdcye8UfLwH8PWxVnFAJB92vFoR3oFqgCazkKHR3oBtpYfzx4omuynbbois3qRP3Y65v0nDcINh9qYhEGvkTAPPDEzSnJOdqZd3Adm4YWur8lJygZg96N1125z1Ksx8qVsyLbFd6+qP0M1wmLn3VET6ARKw/ZGq6AG1AeQRYK8M2NztC0FBn+GCMSmD9lPHJocaVbmaKOmHVPfCug4gLgnS0OGLa6vFooR0YAyFw==</SignatureValue>
+    <SignatureValue>PBoknuz8+76K++GifhCg8u6IhBHP0HR4Zo5Opdcvh3SFtNqOow8YInnSte2Z4g+SalAsWfZmTzFrwJxJj6E67622jgTWwdoZnGZa5i5tztdMZnd/hZqMxpkaVBWv6F/+x+769mcoSUpexgMLBWuYp9pTM0bIQoDx7rtL3u/7LRxhQa7g48X7Vf5prMoenumCeG7DCw8nnoSWNbBrJw/WyO5LfFz4jmsHaIya3A+Mg6dRMGeq/C1XdDpWE2CxijK7KKtBg0VpVf+nkgRIb7o7BK3e+zP4lBamJAOhiVIXxRXsi5ixFCt0fTGYYok7gchOPQGEjCKnowxELNn11myNnw==</SignatureValue>
     <KeyInfo>
       <X509Data>
         <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
