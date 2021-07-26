@@ -1,0 +1,80 @@
+<ECF>
+  <Encabezado>
+    <Version>1.0</Version>
+    <IdDoc>
+      <TipoeCF>45</TipoeCF>
+      <eNCF>E450000000001</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
+      <IndicadorMontoGravado>0</IndicadorMontoGravado>
+      <TipoIngresos>01</TipoIngresos>
+      <TipoPago>1</TipoPago>
+    </IdDoc>
+    <Emisor>
+      <RNCEmisor>130615578</RNCEmisor>
+      <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
+      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
+      <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
+      <Municipio>010101</Municipio>
+      <Provincia>010000</Provincia>
+      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
+      <WebSite>www.facturaelectronica.com</WebSite>
+      <CodigoVendedor>AA0000000100000000010000000002000000000300000000050000000006</CodigoVendedor>
+      <ZonaVenta>NORT</ZonaVenta>
+      <FechaEmision>01-04-2020</FechaEmision>
+    </Emisor>
+    <Comprador>
+      <RNCComprador>131880657</RNCComprador>
+      <RazonSocialComprador>DOCUMENTOS ELECTRONICOS DE 04</RazonSocialComprador>
+      <ContactoComprador>MARCOS LATIPLOL</ContactoComprador>
+      <CorreoComprador>MARCOSLATIPLOL@KKKK.COM</CorreoComprador>
+      <DireccionComprador>CALLE JACINTO DE LA CONCHA FELIZ ESQUINA 27 DE FEBRERO,FRENTE A DOMINO</DireccionComprador>
+      <MunicipioComprador>010100</MunicipioComprador>
+      <ProvinciaComprador>010000</ProvinciaComprador>
+      <FechaEntrega>10-10-2020</FechaEntrega>
+      <FechaOrdenCompra>10-11-2018</FechaOrdenCompra>
+      <NumeroOrdenCompra>4500352238</NumeroOrdenCompra>
+    </Comprador>
+    <Totales>
+      <MontoGravadoTotal>30000.00</MontoGravadoTotal>
+      <MontoGravadoI1>30000.00</MontoGravadoI1>
+      <ITBIS1>18</ITBIS1>
+      <TotalITBIS>5400.00</TotalITBIS>
+      <TotalITBIS1>5400.00</TotalITBIS1>
+      <MontoTotal>35400.00</MontoTotal>
+      <ValorPagar>35400.00</ValorPagar>
+    </Totales>
+  </Encabezado>
+  <DetallesItems>
+    <Item>
+      <NumeroLinea>1</NumeroLinea>
+      <IndicadorFacturacion>1</IndicadorFacturacion>
+      <NombreItem>SERVICIO PUBLICIDAD</NombreItem>
+      <IndicadorBienoServicio>2</IndicadorBienoServicio>
+      <DescripcionItem>prestación de servicios relacionados con la creación, ejecución y distribución de campañas publicitarias.</DescripcionItem>
+      <CantidadItem>1.00</CantidadItem>
+      <UnidadMedida>43</UnidadMedida>
+      <PrecioUnitarioItem>30000.00</PrecioUnitarioItem>
+      <MontoItem>30000.00</MontoItem>
+    </Item>
+  </DetallesItems>
+  <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>UiHOCp7Tro2Ql07p6JZYb68ueO+7Q7YPNysT7ilTfVc=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>rC4PppuzMCdvr4XmlYgRahWwiBFH0gaA1Jgu7ibUZQ/q7BSVYjTpeFox1mfAoR5Zc5cO6HHK/FB+qJu7XgQEwvTmUCD6lI+flFri2wys+1Or6snINlDup4vfKOxlyOrAbarT+q7Y+3ENuD1OvLNcN5vF5Ya+eCDxPlPNzKiuMEa4T/onjVCgh9YEK5k4Dcrr3CG3yj/IT0G8Ke9RnH8D/ZvSYWMINj47LXm+PtL6SwR8c2zXaiEIKUJN0xrZ9Ja4mdYx0+lqt6yB11R7he0+ftnnLBGLjF554A7As8Vo/Lgv3T/806xiH2i0u91iJmR2HyieHXA2iqyMO0Oix1WWZQ==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</ECF>
