@@ -1,0 +1,119 @@
+<ECF>
+  <Encabezado>
+    <Version>1.0</Version>
+    <IdDoc>
+      <TipoeCF>46</TipoeCF>
+      <eNCF>E460000000001</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
+      <TipoIngresos>01</TipoIngresos>
+      <TipoPago>2</TipoPago>
+      <FechaLimitePago>06-05-2020</FechaLimitePago>
+      <TerminoPago>1 mes</TerminoPago>
+      <TablaFormasPago>
+        <FormaDePago>
+          <FormaPago>2</FormaPago>
+          <MontoPago>1800000.00</MontoPago>
+        </FormaDePago>
+      </TablaFormasPago>
+    </IdDoc>
+    <Emisor>
+      <RNCEmisor>130615578</RNCEmisor>
+      <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
+      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
+      <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
+      <Municipio>010101</Municipio>
+      <Provincia>010000</Provincia>
+      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
+      <WebSite>www.facturaelectronica.com</WebSite>
+      <CodigoVendedor>AA0000000100000000010000000002000000000300000000050000000006</CodigoVendedor>
+      <FechaEmision>01-04-2020</FechaEmision>
+    </Emisor>
+    <Comprador>
+      <RNCComprador>131880681</RNCComprador>
+      <RazonSocialComprador>ZONA FRANCA LOI</RazonSocialComprador>
+      <ContactoComprador>MARCOS LLUBERES</ContactoComprador>
+      <CorreoComprador>MARCOSLLUBERES@KKKK.COM</CorreoComprador>
+      <DireccionComprador>ZONA HAINA</DireccionComprador>
+      <MunicipioComprador>010100</MunicipioComprador>
+      <ProvinciaComprador>010000</ProvinciaComprador>
+      <FechaEntrega>07-04-2020</FechaEntrega>
+      <ContactoEntrega>JACINTO MANON</ContactoEntrega>
+      <DireccionEntrega>ZONA HAINA</DireccionEntrega>
+      <TelefonoAdicional>809-555-5050</TelefonoAdicional>
+      <FechaOrdenCompra>10-03-2020</FechaOrdenCompra>
+      <NumeroOrdenCompra>4500352230</NumeroOrdenCompra>
+    </Comprador>
+    <InformacionesAdicionales>
+      <FechaEmbarque>10-04-2020</FechaEmbarque>
+      <NumeroEmbarque>10010-1207-000254</NumeroEmbarque>
+      <NumeroContenedor>ERTY227958722</NumeroContenedor>
+      <NumeroReferencia>1448</NumeroReferencia>
+      <CondicionesEntrega>FOB</CondicionesEntrega>
+      <TotalFob>1800.00</TotalFob>
+      <Seguro>250.00</Seguro>
+      <Flete>22.00</Flete>
+      <RegimenAduanero>EXPORTACION NACIONAL</RegimenAduanero>
+      <NombrePuertoSalida>DOSDQ</NombrePuertoSalida>
+      <NombrePuertoDesembarque>PTO RICO</NombrePuertoDesembarque>
+      <PesoBruto>25000.00</PesoBruto>
+      <PesoNeto>24878.00</PesoNeto>
+      <UnidadPesoBruto>21</UnidadPesoBruto>
+      <UnidadPesoNeto>21</UnidadPesoNeto>
+      <CantidadBulto>250.00</CantidadBulto>
+      <UnidadBulto>25</UnidadBulto>
+      <VolumenBulto>45</VolumenBulto>
+      <UnidadVolumen>27</UnidadVolumen>
+    </InformacionesAdicionales>
+    <Transporte>
+      <PaisOrigen>REPUBLICA DOMINICANA</PaisOrigen>
+      <DireccionDestino>CALLE GUALLUBI NO. 09</DireccionDestino>
+      <PaisDestino>PUERTO RICO</PaisDestino>
+      <NumeroAlbaran>56789UJILLL</NumeroAlbaran>
+    </Transporte>
+    <Totales>
+      <MontoGravadoTotal>1800000.00</MontoGravadoTotal>
+      <MontoGravadoI3>1800000.00</MontoGravadoI3>
+      <ITBIS3>0</ITBIS3>
+      <TotalITBIS>0.00</TotalITBIS>
+      <TotalITBIS3>0.00</TotalITBIS3>
+      <MontoTotal>1800000.00</MontoTotal>
+    </Totales>
+  </Encabezado>
+  <DetallesItems>
+    <Item>
+      <NumeroLinea>1</NumeroLinea>
+      <IndicadorFacturacion>3</IndicadorFacturacion>
+      <NombreItem>AGUACATE CRIOLLO</NombreItem>
+      <IndicadorBienoServicio>1</IndicadorBienoServicio>
+      <CantidadItem>100.00</CantidadItem>
+      <UnidadMedida>43</UnidadMedida>
+      <PrecioUnitarioItem>18000.00</PrecioUnitarioItem>
+      <MontoItem>1800000.00</MontoItem>
+    </Item>
+  </DetallesItems>
+  <!-- <InformacionReferencia>
+    <NCFModificado>E310000000001</NCFModificado>
+    <FechaNCFModificado>31-12-2021</FechaNCFModificado>
+    <CodigoModificacion>4</CodigoModificacion>
+  </InformacionReferencia>-->
+  <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>gwTwSKEATrdDhoP2HhBKYbf4+paUwKYKNzPNU7TUOws=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>vQ/gkJ/xOQgCLjWSZLhn7zv3jfXSzO4pI6mToYTq0kBsAyq0zfxVZGeLQYEQDKOcStGwmCpIach0fgGPoi0wOdTIEH1nPqTNnKvSjnav6ZJY+PFENJavUu6LN50wKHmsLnrEec2IsPM1n9jFQDpUlvCmHzniNrT3y4Gho3ryzJGtuRb6H15YHqdWB+CbKaifEZFp945drT71hFhqqVUtqtaioqeOv8BFQXT22H8ZSu2HqZFjeU3VAceLyMDkIFsR0Ijf3SfFMFyI9rbc2t0sKoEOTPxcj9n8xqNYp2fPIsgWd8JjSuTC8vOqnhAiv4GCTcCwL1/aktwobDswHDmhag==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</ECF>
