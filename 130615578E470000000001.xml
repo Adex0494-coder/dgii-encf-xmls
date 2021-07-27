@@ -1,0 +1,83 @@
+<ECF>
+  <Encabezado>
+    <Version>1.0</Version>
+    <IdDoc>
+      <TipoeCF>47</TipoeCF>
+      <eNCF>E470000000001</eNCF>
+      <FechaVencimientoSecuencia>31-12-2021</FechaVencimientoSecuencia>
+      <NumeroCuentaPago>BB00058745214789635111111111</NumeroCuentaPago>
+      <BancoPago>BB0111111111111111111111111111111111111111111111111111111111111111111111111</BancoPago>
+    </IdDoc>
+    <Emisor>
+      <RNCEmisor>130615578</RNCEmisor>
+      <RazonSocialEmisor>DOCUMENTOS ELECTRONICOS DE 02</RazonSocialEmisor>
+      <NombreComercial>DOCUMENTOS ELECTRONICOS DE 02</NombreComercial>
+      <DireccionEmisor>AVE. ISABEL AGUIAR NO. 269, ZONA INDUSTRIAL DE HERRERA</DireccionEmisor>
+      <Municipio>010101</Municipio>
+      <Provincia>010000</Provincia>
+      <CorreoEmisor>DOCUMENTOSELECTRONICOSDE0612345678969789+9000000000000000000000000000001@123.COM</CorreoEmisor>
+      <WebSite>www.facturaelectronica.com</WebSite>
+      <FechaEmision>01-04-2020</FechaEmision>
+    </Emisor>
+    <Comprador>
+      <IdentificadorExtranjero>533445888</IdentificadorExtranjero>
+      <RazonSocialComprador>ALEJA FERMIN SANTOS</RazonSocialComprador>
+    </Comprador>
+    <Totales>
+      <MontoExento>180000.00</MontoExento>
+      <MontoTotal>180000.00</MontoTotal>
+      <TotalISRRetencion>48600.00</TotalISRRetencion>
+    </Totales>
+    <OtraMoneda>
+      <TipoMoneda>USD</TipoMoneda>
+      <TipoCambio>60.0000</TipoCambio>
+      <MontoExentoOtraMoneda>3000.00</MontoExentoOtraMoneda>
+      <MontoTotalOtraMoneda>3000.00</MontoTotalOtraMoneda>
+    </OtraMoneda>
+  </Encabezado>
+  <DetallesItems>
+    <Item>
+      <NumeroLinea>1</NumeroLinea>
+      <IndicadorFacturacion>4</IndicadorFacturacion>
+      <Retencion>
+        <IndicadorAgenteRetencionoPercepcion>1</IndicadorAgenteRetencionoPercepcion>
+        <MontoISRRetenido>48600.00</MontoISRRetenido>
+      </Retencion>
+      <NombreItem>LICENCIA WYI</NombreItem>
+      <IndicadorBienoServicio>2</IndicadorBienoServicio>
+      <CantidadItem>1.00</CantidadItem>
+      <UnidadMedida>43</UnidadMedida>
+      <PrecioUnitarioItem>180000.00</PrecioUnitarioItem>
+      <OtraMonedaDetalle>
+        <PrecioOtraMoneda>3000.0000</PrecioOtraMoneda>
+        <MontoItemOtraMoneda>3000.00</MontoItemOtraMoneda>
+      </OtraMonedaDetalle>
+      <MontoItem>180000.00</MontoItem>
+    </Item>
+  </DetallesItems>
+  <!-- <InformacionReferencia>
+    <NCFModificado>E310000000001</NCFModificado>
+    <FechaNCFModificado>31-12-2021</FechaNCFModificado>
+    <CodigoModificacion>4</CodigoModificacion>
+  </InformacionReferencia>-->
+  <FechaHoraFirma>21-07-2021 15:07:59</FechaHoraFirma>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>Q43bWFWC5RhjHbAkz2xqul0wl0GJeqZHj0SfYzJ+vr0=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>ia9VXebBcNmUcjNNduQJlMVS+rdWzvDxlLs2dPlsSVDYDEiNHwBUqjRe5qCqOFS0fNKfDVMjoZ+6486s+GZ5GkMWveAoMAW6ej2f0RbgXZ/UVGSItPDPEbaV/3Rm3fBGsBoKQfGSo+oUAIP6logbIbzZhIvmMAX5sythOMcovBymTGL65thPfp5P5d59qqk+M2J899pUqyUpkHzJn2E9GfGyoshxk8LAg5rM2SvBFJ7D7fALDqoKYV6RwNqQvKOx3X6qZHUniPgjF4e2urW61PT+PDL1orGBdmiZfeNp05jeGCRff60lLtZGP7TGOm6ZdZpaSxz2PrCy8e0/3FCs8w==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIFXjCCBEagAwIBAgIIevC9Vviw5f0wDQYJKoZIhvcNAQEFBQAweTELMAkGA1UEBhMCRE8xGjAYBgNVBAcMEVdXVy5BVkFOU0kuQ09NLkRPMSYwJAYDVQQKDB1BVkFOU0kgUy5SLkwuIC0gUk5DIDEzMDIyMjUwOTEmMCQGA1UEAwwdQVZBTlNJIENFUlRJRklDQURPUyBESUdJVEFMRVMwHhcNMjEwNzE1MjE0NzU4WhcNMjMwNzE1MjE0NzU3WjCBqjELMAkGA1UEBhMCRE8xGDAWBgNVBAQTD01BUlRJTkVaIFBJTkVEQTETMBEGA1UEKhMKSk9TRSBSQU1PTjEUMBIGA1UEBRMLMDAxMTY1MTYyMjAxIzAhBgNVBAMTGkpPU0UgUkFNT04gTUFSVElORVogUElORURBMTEwLwYKKwYBBAGB1gMIARMhQ0VSVElGSUNBRE8gREUgUEVSU09OQSBJTkRJVklEVUFMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXEn2balROhJu05Abh7qU3qQx41kn5cINzMsJkz+EilLUsokWYLyQiwS0yYTwwzX+4IoVoGFpd5TllA6awCDr/2S/5OnA6w0cPjB7/UXjx6iEy1/w6xFejiRVvfg2Rn7I48hAMf6+0+h73JDKIAzQM1xr+401YbqZTNMrWy3e+S+o/st/ub6OABOEYXxQUvRJDStv21MT0Olbg1eV/Nb5qo8d9dMnwkDo7UVJwzJ8rZVBb7C4lpF2Slr0YXuAqeTr0RdZphMhQq7XmimgkQqxU2MfeFRL2HJj/a++wRFg+iAhRvRUX33eoiFkfMX6m5lpCHpP/YFiC3jvgBCRrQ4fQIDAQABo4IBtjCCAbIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQhwg7jhX7LTBFOCVssFYpsQB4O4TA1BggrBgEFBQcBAQQpMCcwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmF2YW5zaS5jb20uZG8wIQYDVR0RBBowGIEWQVJJSk9ARkFSTUFUUklYLkNPTS5ETzBxBgNVHSAEajBoMGYGCysGAQQBgdYDBgIEMFcwJAYIKwYBBQUHAgEWGGh0dHA6Ly9jcHMuYXZhbnNpLmNvbS5kbzAvBggrBgEFBQcCAjAjDCFDRVJUSUZJQ0FETyBERSBQRVJTT05BIElORElWSURVQUwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuYXZhbnNpLmNvbS5kby9hdmFuc2lzdWIuY3JsMC2gK6AphidodHRwOi8vY3JsMi5hdmFuc2kuY29tLmRvL2F2YW5zaXN1Yi5jcmwwHQYDVR0OBBYEFGZB/lqamGRQJaB0Gp2YFjnGXxLtMA4GA1UdDwEB/wQEAwIE8DANBgkqhkiG9w0BAQUFAAOCAQEACWMXaRdKOxDdEK24Ph/VOhwM+yRDPdmmVYaR1BABcqj97KU1j5M3kkHwmkrQE+KRFqyK91I+vdTHwM7oI3x+A8rvMzEc/3RY47qfMlhFcA5fViVHg9xLC7MqLCPqYx0OTuSFeJcuSfm+0bH4YIM27Eu5uOpRfsR69+qnT3laci3eMrCM/QfAhSUzmC+2Xs3NQUs2ip/Icr5M+MsBzHh8pLXjYhDFNRP3LJGv8cPaTHUWhNWrONBaj1iqJo+IvKZ74BLyaT34t3Va5by1kSlPnCIIunIwFLf90IaLqGVTPyw17afnb9WHiYJfug4Wh116AltVZb4cWrbLJk+HNTsThA==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</ECF>
